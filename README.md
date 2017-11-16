@@ -6,3 +6,5 @@ This repository is created in the process of finishing leetcode questions, with 
 332 to solve
 https://leetcode.com/problems/reconstruct-itinerary/description/
 toplogical sort
+
+78 677
